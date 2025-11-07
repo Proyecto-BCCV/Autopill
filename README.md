@@ -21,7 +21,7 @@ Tecnologías principales:
 ## Rol de usuario común
 El usuario común es el usuario dueño del Pastillero Autopill, quien toma las pastillas.
 
-##Rol de cuidador
+## Rol de cuidador
 Un usuario no dueño del pastillero, quien esta vinculado con un usuario común, y administra las pastillas de este de manera remota, con previa autorización del mismo. 
 
 ## ¿Por qué es útil?
@@ -126,4 +126,5 @@ Revisa el código del endpoint principal `get_notifications_esp.php` para ver el
 ## Licencia
 
 Autopill 2025. Todos los derechos reservados.
+
 
