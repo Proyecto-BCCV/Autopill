@@ -1,0 +1,847 @@
+[24-Oct-2025 19:55:59 America/Mexico_City] [login_process] DB en uso=bg03
+[24-Oct-2025 19:55:59 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[24-Oct-2025 19:55:59 America/Mexico_City] [login_process] Resultado filas=1
+[24-Oct-2025 19:55:59 America/Mexico_City] [login_process] Sesión establecida para user_id=745526
+[24-Oct-2025 19:55:59 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[24-Oct-2025 19:55:59 America/Mexico_City] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[24-Oct-2025 19:55:59 America/Mexico_City] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[24-Oct-2025 19:55:59 America/Mexico_City] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[24-Oct-2025 20:09:43 America/Mexico_City] [login_process] DB en uso=bg03
+[24-Oct-2025 20:09:43 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[24-Oct-2025 20:09:43 America/Mexico_City] [login_process] Resultado filas=1
+[24-Oct-2025 20:09:43 America/Mexico_City] [login_process] Sesión establecida para user_id=745526
+[24-Oct-2025 20:09:43 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[24-Oct-2025 20:09:43 America/Mexico_City] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[24-Oct-2025 20:09:43 America/Mexico_City] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[24-Oct-2025 20:09:43 America/Mexico_City] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[24-Oct-2025 23:33:11 America/Mexico_City] [google_callback] Buscando usuario existente con google_id: 117783703383733056843
+[24-Oct-2025 23:33:11 America/Mexico_City] [google_callback] Usuario existente encontrado: id=781497 rol=cuidador
+[28-Oct-2025 13:46:23 America/Mexico_City] [login_process] DB en uso=bg03
+[28-Oct-2025 13:46:23 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[28-Oct-2025 13:46:23 America/Mexico_City] [login_process] Resultado filas=1
+[28-Oct-2025 13:46:23 America/Mexico_City] [login_process] Sesión establecida para user_id=745526
+[28-Oct-2025 13:46:23 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[28-Oct-2025 13:46:23 America/Mexico_City] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[28-Oct-2025 13:46:23 America/Mexico_City] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[28-Oct-2025 13:46:23 America/Mexico_City] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[28-Oct-2025 13:46:49 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 161: Módulo 1 a las 00:22:00 para módulo 1
+[28-Oct-2025 13:46:49 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":161,"alarm_name":"M\u00f3dulo 1","alarm_time":"00:22:00","module_id":1,"timestamp":"2025-10-28 13:46:49"}
+[28-Oct-2025 13:46:49 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 13:51:14 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 162: Módulo 1 a las 00:22:00 para módulo 1
+[28-Oct-2025 13:51:14 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":162,"alarm_name":"M\u00f3dulo 1","alarm_time":"00:22:00","module_id":1,"timestamp":"2025-10-28 13:51:14"}
+[28-Oct-2025 13:51:14 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[2025-10-28 17:15:24] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-10-28 17:15:24] [Contacto Index] Intento de envío {"nombre":"Test","email":"luciana.magali.28@gmail.com","success":true}
+[28-Oct-2025 14:16:36 America/Mexico_City] [login_process] DB en uso=bg03
+[28-Oct-2025 14:16:36 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[28-Oct-2025 14:16:36 America/Mexico_City] [login_process] Resultado filas=1
+[28-Oct-2025 14:16:42 America/Mexico_City] [login_process] DB en uso=bg03
+[28-Oct-2025 14:16:42 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[28-Oct-2025 14:16:42 America/Mexico_City] [login_process] Resultado filas=1
+[28-Oct-2025 14:16:43 America/Mexico_City] [login_process] Sesión establecida para user_id=745526
+[28-Oct-2025 14:16:43 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[28-Oct-2025 14:16:43 America/Mexico_City] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[28-Oct-2025 14:16:43 America/Mexico_City] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[28-Oct-2025 14:16:43 America/Mexico_City] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[28-Oct-2025 14:16:43 America/Mexico_City] [login_process] DB en uso=bg03
+[28-Oct-2025 14:16:43 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[28-Oct-2025 14:16:43 America/Mexico_City] [login_process] Resultado filas=1
+[28-Oct-2025 14:16:43 America/Mexico_City] [login_process] Sesión establecida para user_id=745526
+[28-Oct-2025 14:16:43 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[28-Oct-2025 14:16:43 America/Mexico_City] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[28-Oct-2025 14:16:43 America/Mexico_City] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[28-Oct-2025 14:16:43 America/Mexico_City] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[2025-10-28 17:18:04] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-10-28 17:18:04] [Reporte Problema] Intento de envío {"nombre":"pastilleroautomatico","email":"pastilleroautomatico7@gmail.com","asunto":"Sugerencia","success":true}
+[2025-10-28 17:19:46] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-10-28 17:19:46] [Reporte Problema] Intento de envío {"nombre":"pastilleroautomatico","email":"pastilleroautomatico7@gmail.com","asunto":"Problema técnico","success":true}
+[28-Oct-2025 14:28:12 America/Mexico_City] [google_callback] Buscando usuario existente con google_id: 110436412710430791261
+[28-Oct-2025 14:28:12 America/Mexico_City] [google_callback] Usuario existente encontrado: id=704398 rol=cuidador
+[28-Oct-2025 14:28:42 America/Mexico_City] [login_process] DB en uso=bg03
+[28-Oct-2025 14:28:42 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[28-Oct-2025 14:28:42 America/Mexico_City] [login_process] Resultado filas=1
+[28-Oct-2025 14:28:42 America/Mexico_City] [login_process] Sesión establecida para user_id=745526
+[28-Oct-2025 14:28:42 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[28-Oct-2025 14:28:42 America/Mexico_City] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[28-Oct-2025 14:28:42 America/Mexico_City] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[28-Oct-2025 14:28:42 America/Mexico_City] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[2025-10-28 16:08:07] [PwdReset] token creado {"user_id":"745526","email":"pastilleroautomatico7@gmail.com","token":"reset_ce4ba9f1d9c78123de2030eead0437a12213d1ec057a4bfc4592afa40cef4ede","expires":"2025-10-28 16:18:07"}
+[2025-10-28 16:08:12] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-10-28 16:08:12] [Email] resultado envío reset {"email":"pastilleroautomatico7@gmail.com","result":{"success":true,"status":202}}
+[2025-10-28 16:09:22] [PwdReset] token validado {"user_id":"745526"}
+[2025-10-28 16:09:30] [PwdReset] token rechazado {"reason":"used","token":"reset_ce4ba9f1d9c78123de..."}
+[2025-10-28 19:27:14] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-10-28 19:27:14] [Contacto Index] Intento de envío {"nombre":"El lucas","email":"luks19carril@gmail.com","success":true}
+[28-Oct-2025 16:30:47 America/Mexico_City] [google_callback] Buscando usuario existente con google_id: 108988141100201560971
+[28-Oct-2025 16:30:47 America/Mexico_City] [google_callback] Usuario existente encontrado: id=745526 rol=paciente
+[28-Oct-2025 16:30:47 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[28-Oct-2025 16:30:47 America/Mexico_City] [google_callback] Usuario 745526 tiene ESP=ESP32_001
+[28-Oct-2025 16:31:11 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 163: Módulo 1 a las 19:29:00 para módulo 1
+[28-Oct-2025 16:31:11 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":163,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:29:00","module_id":1,"timestamp":"2025-10-28 16:31:11"}
+[28-Oct-2025 16:31:11 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 16:32:39 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 164: Módulo 1 a las 19:30:00 para módulo 1
+[28-Oct-2025 16:32:39 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":164,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:30:00","module_id":1,"timestamp":"2025-10-28 16:32:39"}
+[28-Oct-2025 16:32:39 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 16:33:24 America/Mexico_City] [login_process] DB en uso=bg03
+[28-Oct-2025 16:33:24 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[28-Oct-2025 16:33:24 America/Mexico_City] [login_process] Resultado filas=1
+[28-Oct-2025 16:33:24 America/Mexico_City] [login_process] Sesión establecida para user_id=745526
+[28-Oct-2025 16:33:24 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[28-Oct-2025 16:33:24 America/Mexico_City] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[28-Oct-2025 16:33:24 America/Mexico_City] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[28-Oct-2025 16:33:24 America/Mexico_City] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[28-Oct-2025 16:33:26 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 165: Módulo 1 a las 19:31:00 para módulo 1
+[28-Oct-2025 16:33:26 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":165,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:31:00","module_id":1,"timestamp":"2025-10-28 16:33:26"}
+[28-Oct-2025 16:33:26 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 16:40:00 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 166: Módulo 1 a las 19:38:00 para módulo 1
+[28-Oct-2025 16:40:00 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":166,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:38:00","module_id":1,"timestamp":"2025-10-28 16:40:00"}
+[28-Oct-2025 16:40:00 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 16:47:01 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 167: Módulo 1 a las 19:45:00 para módulo 1
+[28-Oct-2025 16:47:01 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":167,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:45:00","module_id":1,"timestamp":"2025-10-28 16:47:01"}
+[28-Oct-2025 16:47:01 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 16:53:24 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 168: Módulo 1 a las 19:51:00 para módulo 1
+[28-Oct-2025 16:53:24 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":168,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:51:00","module_id":1,"timestamp":"2025-10-28 16:53:24"}
+[28-Oct-2025 16:53:24 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 16:58:53 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 169: Módulo 1 a las 19:57:00 para módulo 1
+[28-Oct-2025 16:58:53 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":169,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:57:00","module_id":1,"timestamp":"2025-10-28 16:58:53"}
+[28-Oct-2025 16:58:53 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 17:00:07 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 170: Módulo 1 a las 19:58:00 para módulo 1
+[28-Oct-2025 17:00:07 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":170,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:58:00","module_id":1,"timestamp":"2025-10-28 17:00:07"}
+[28-Oct-2025 17:00:07 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 17:07:27 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 171: Módulo 1 a las 20:05:00 para módulo 1
+[28-Oct-2025 17:07:27 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":171,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:05:00","module_id":1,"timestamp":"2025-10-28 17:07:27"}
+[28-Oct-2025 17:07:27 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 17:16:27 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 172: Módulo 1 a las 20:14:00 para módulo 1
+[28-Oct-2025 17:16:27 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":172,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:14:00","module_id":1,"timestamp":"2025-10-28 17:16:27"}
+[28-Oct-2025 17:16:27 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 17:36:32 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 173: Módulo 1 a las 20:34:00 para módulo 1
+[28-Oct-2025 17:36:32 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":173,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:34:00","module_id":1,"timestamp":"2025-10-28 17:36:32"}
+[28-Oct-2025 17:36:32 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 17:40:39 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 174: Módulo 1 a las 20:38:00 para módulo 1
+[28-Oct-2025 17:40:39 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":174,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:38:00","module_id":1,"timestamp":"2025-10-28 17:40:39"}
+[28-Oct-2025 17:40:39 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 17:41:31 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 175: Módulo 1 a las 20:39:00 para módulo 1
+[28-Oct-2025 17:41:31 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":175,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:39:00","module_id":1,"timestamp":"2025-10-28 17:41:31"}
+[28-Oct-2025 17:41:31 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 17:47:08 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 176: Módulo 1 a las 20:45:00 para módulo 1
+[28-Oct-2025 17:47:08 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":176,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:45:00","module_id":1,"timestamp":"2025-10-28 17:47:08"}
+[28-Oct-2025 17:47:08 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 17:51:56 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 177: Módulo 1 a las 20:50:00 para módulo 1
+[28-Oct-2025 17:51:56 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":177,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:50:00","module_id":1,"timestamp":"2025-10-28 17:51:56"}
+[28-Oct-2025 17:51:56 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 17:57:46 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 178: Módulo 1 a las 20:55:00 para módulo 1
+[28-Oct-2025 17:57:46 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":178,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:55:00","module_id":1,"timestamp":"2025-10-28 17:57:46"}
+[28-Oct-2025 17:57:46 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 18:06:05 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 179: Módulo 1 a las 21:04:00 para módulo 1
+[28-Oct-2025 18:06:05 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":179,"alarm_name":"M\u00f3dulo 1","alarm_time":"21:04:00","module_id":1,"timestamp":"2025-10-28 18:06:05"}
+[28-Oct-2025 18:06:05 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 18:12:47 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 180: Módulo 1 a las 21:10:00 para módulo 1
+[28-Oct-2025 18:12:47 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":180,"alarm_name":"M\u00f3dulo 1","alarm_time":"21:10:00","module_id":1,"timestamp":"2025-10-28 18:12:47"}
+[28-Oct-2025 18:12:47 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 18:18:30 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 181: Módulo 1 a las 21:16:00 para módulo 1
+[28-Oct-2025 18:18:30 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":181,"alarm_name":"M\u00f3dulo 1","alarm_time":"21:16:00","module_id":1,"timestamp":"2025-10-28 18:18:30"}
+[28-Oct-2025 18:18:30 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 18:19:26 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 182: Módulo 1 a las 21:17:00 para módulo 1
+[28-Oct-2025 18:19:26 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":182,"alarm_name":"M\u00f3dulo 1","alarm_time":"21:17:00","module_id":1,"timestamp":"2025-10-28 18:19:26"}
+[28-Oct-2025 18:19:26 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[28-Oct-2025 18:21:09 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 183: Módulo 2 a las 21:19:00 para módulo 2
+[28-Oct-2025 18:21:09 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[29-Oct-2025 15:55:49 America/Mexico_City] [google_callback] Buscando usuario existente con google_id: 108988141100201560971
+[29-Oct-2025 15:55:49 America/Mexico_City] [google_callback] Usuario existente encontrado: id=745526 rol=paciente
+[29-Oct-2025 15:55:49 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[29-Oct-2025 15:55:49 America/Mexico_City] [google_callback] Usuario 745526 tiene ESP=ESP32_001
+[29-Oct-2025 15:56:25 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 184: Módulo 1 a las 18:54:00 para módulo 1
+[29-Oct-2025 15:56:25 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":184,"alarm_name":"M\u00f3dulo 1","alarm_time":"18:54:00","module_id":1,"timestamp":"2025-10-29 15:56:25"}
+[29-Oct-2025 15:56:25 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[29-Oct-2025 15:59:07 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 185: Módulo 1 a las 18:58:00 para módulo 1
+[29-Oct-2025 15:59:07 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":185,"alarm_name":"M\u00f3dulo 1","alarm_time":"18:58:00","module_id":1,"timestamp":"2025-10-29 15:59:07"}
+[29-Oct-2025 15:59:07 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[29-Oct-2025 15:59:22 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 186: Módulo 1 a las 18:59:00 para módulo 1
+[29-Oct-2025 15:59:22 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":186,"alarm_name":"M\u00f3dulo 1","alarm_time":"18:59:00","module_id":1,"timestamp":"2025-10-29 15:59:22"}
+[29-Oct-2025 15:59:22 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[29-Oct-2025 15:59:45 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 187: Módulo 1 a las 19:00:00 para módulo 1
+[29-Oct-2025 15:59:45 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":187,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:00:00","module_id":1,"timestamp":"2025-10-29 15:59:45"}
+[29-Oct-2025 15:59:45 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[29-Oct-2025 16:04:27 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 188: Módulo 1 a las 19:05:00 para módulo 1
+[29-Oct-2025 16:04:27 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":188,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:05:00","module_id":1,"timestamp":"2025-10-29 16:04:27"}
+[29-Oct-2025 16:04:27 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[29-Oct-2025 16:05:42 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 189: Módulo 1 a las 19:03:00 para módulo 1
+[29-Oct-2025 16:05:42 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":189,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:03:00","module_id":1,"timestamp":"2025-10-29 16:05:42"}
+[29-Oct-2025 16:05:42 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[29-Oct-2025 16:06:15 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 190: Módulo 1 a las 19:04:00 para módulo 1
+[29-Oct-2025 16:06:15 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":190,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:04:00","module_id":1,"timestamp":"2025-10-29 16:06:15"}
+[29-Oct-2025 16:06:15 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[29-Oct-2025 16:12:14 America/Mexico_City] [login_process] DB en uso=bg03
+[29-Oct-2025 16:12:14 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[29-Oct-2025 16:12:14 America/Mexico_City] [login_process] Resultado filas=1
+[29-Oct-2025 16:12:14 America/Mexico_City] [login_process] Sesión establecida para user_id=745526
+[29-Oct-2025 16:12:14 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[29-Oct-2025 16:12:14 America/Mexico_City] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[29-Oct-2025 16:12:14 America/Mexico_City] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[29-Oct-2025 16:12:14 America/Mexico_City] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[29-Oct-2025 16:13:06 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 191: Módulo 1 a las 19:12:00 para módulo 1
+[29-Oct-2025 16:13:06 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":191,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:12:00","module_id":1,"timestamp":"2025-10-29 16:13:06"}
+[29-Oct-2025 16:13:06 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[29-Oct-2025 16:17:47 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 192: Módulo 1 a las 19:15:00 para módulo 1
+[29-Oct-2025 16:17:47 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":192,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:15:00","module_id":1,"timestamp":"2025-10-29 16:17:47"}
+[29-Oct-2025 16:17:47 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[29-Oct-2025 16:18:14 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 193: Módulo 1 a las 19:16:00 para módulo 1
+[29-Oct-2025 16:18:14 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":193,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:16:00","module_id":1,"timestamp":"2025-10-29 16:18:14"}
+[29-Oct-2025 16:18:14 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[29-Oct-2025 16:18:41 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 194: Módulo 1 a las 19:17:00 para módulo 1
+[29-Oct-2025 16:18:41 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":194,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:17:00","module_id":1,"timestamp":"2025-10-29 16:18:41"}
+[29-Oct-2025 16:18:41 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[29-Oct-2025 16:23:27 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 195: Módulo 1 a las 19:21:00 para módulo 1
+[29-Oct-2025 16:23:27 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":195,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:21:00","module_id":1,"timestamp":"2025-10-29 16:23:27"}
+[29-Oct-2025 16:23:27 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[29-Oct-2025 16:27:08 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 196: Módulo 2 a las 19:26:00 para módulo 2
+[29-Oct-2025 16:27:08 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[29-Oct-2025 16:27:20 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 197: Módulo 3 a las 19:25:00 para módulo 3
+[29-Oct-2025 16:27:20 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[29-Oct-2025 16:29:34 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 198: Módulo 3 a las 19:28:00 para módulo 3
+[29-Oct-2025 16:29:34 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[29-Oct-2025 16:29:45 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 199: Módulo 2 a las 19:28:00 para módulo 2
+[29-Oct-2025 16:29:45 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[29-Oct-2025 16:29:59 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 200: Módulo 1 a las 19:28:00 para módulo 1
+[29-Oct-2025 16:29:59 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":200,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:28:00","module_id":1,"timestamp":"2025-10-29 16:29:59"}
+[29-Oct-2025 16:29:59 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[29-Oct-2025 16:32:16 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 201: Módulo 4 a las 19:31:00 para módulo 4
+[29-Oct-2025 16:32:16 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 4 ignorado por ESP configurado solo para módulo 1
+[29-Oct-2025 16:32:26 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 202: Módulo 5 a las 19:31:00 para módulo 5
+[29-Oct-2025 16:32:26 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[29-Oct-2025 16:41:38 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 203: Módulo 4 a las 19:40:00 para módulo 4
+[29-Oct-2025 16:41:38 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 4 ignorado por ESP configurado solo para módulo 1
+[29-Oct-2025 16:41:48 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 204: Módulo 5 a las 19:40:00 para módulo 5
+[29-Oct-2025 16:41:48 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[29-Oct-2025 16:43:22 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 205: Módulo 4 a las 19:41:00 para módulo 4
+[29-Oct-2025 16:43:22 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 4 ignorado por ESP configurado solo para módulo 1
+[29-Oct-2025 16:43:30 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 206: Módulo 5 a las 19:41:00 para módulo 5
+[29-Oct-2025 16:43:30 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[29-Oct-2025 16:44:24 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 207: Módulo 4 a las 19:42:00 para módulo 4
+[29-Oct-2025 16:44:24 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 4 ignorado por ESP configurado solo para módulo 1
+[29-Oct-2025 16:45:56 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 208: Módulo 5 a las 19:44:00 para módulo 5
+[29-Oct-2025 16:45:56 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[29-Oct-2025 16:47:08 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 209: Módulo 4 a las 19:45:00 para módulo 4
+[29-Oct-2025 16:47:08 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 4 ignorado por ESP configurado solo para módulo 1
+[29-Oct-2025 16:47:17 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 210: Módulo 5 a las 19:45:00 para módulo 5
+[29-Oct-2025 16:47:17 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[31-Oct-2025 18:06:28 America/Mexico_City] [login_process] DB en uso=bg03
+[31-Oct-2025 18:06:28 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[31-Oct-2025 18:06:28 America/Mexico_City] [login_process] Resultado filas=1
+[31-Oct-2025 18:06:29 America/Mexico_City] [login_process] Sesión establecida para user_id=745526
+[31-Oct-2025 18:06:29 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[31-Oct-2025 18:06:29 America/Mexico_City] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[31-Oct-2025 18:06:29 America/Mexico_City] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[31-Oct-2025 18:06:29 America/Mexico_City] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[31-Oct-2025 18:10:38 America/Mexico_City] [login_process] DB en uso=bg03
+[31-Oct-2025 18:10:38 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[31-Oct-2025 18:10:38 America/Mexico_City] [login_process] Resultado filas=1
+[31-Oct-2025 18:10:44 America/Mexico_City] [login_process] DB en uso=bg03
+[31-Oct-2025 18:10:44 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[31-Oct-2025 18:10:44 America/Mexico_City] [login_process] Resultado filas=1
+[31-Oct-2025 18:10:44 America/Mexico_City] [login_process] Sesión establecida para user_id=745526
+[31-Oct-2025 18:10:44 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 NO tiene ESP vinculado - needs_esp32=true
+[31-Oct-2025 18:10:44 America/Mexico_City] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=true
+[31-Oct-2025 18:10:44 America/Mexico_City] [login_process] Paciente SIN ESP vinculado -> vincular_esp.php
+[31-Oct-2025 18:10:44 America/Mexico_City] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> vincular_esp.php
+[31-Oct-2025 18:14:31 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 211: Módulo 1 a las 12:12:00 para módulo 1
+[31-Oct-2025 18:14:31 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":211,"alarm_name":"M\u00f3dulo 1","alarm_time":"12:12:00","module_id":1,"timestamp":"2025-10-31 18:14:31"}
+[31-Oct-2025 18:14:31 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[31-Oct-2025 19:15:25 America/Mexico_City] [google_callback] Buscando usuario existente con google_id: 108988141100201560971
+[31-Oct-2025 19:15:25 America/Mexico_City] [google_callback] Usuario existente encontrado: id=745526 rol=paciente
+[31-Oct-2025 19:15:25 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[31-Oct-2025 19:15:25 America/Mexico_City] [google_callback] Usuario 745526 tiene ESP=ESP32_001
+[31-Oct-2025 19:25:37 America/Mexico_City] [google_callback] Buscando usuario existente con google_id: 117783703383733056843
+[31-Oct-2025 19:25:37 America/Mexico_City] [google_callback] Usuario existente encontrado: id=781497 rol=cuidador
+[01-Nov-2025 13:24:47 America/Mexico_City] [login_process] DB en uso=bg03
+[01-Nov-2025 13:24:47 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[01-Nov-2025 13:24:47 America/Mexico_City] [login_process] Resultado filas=1
+[01-Nov-2025 13:24:47 America/Mexico_City] [login_process] Sesión establecida para user_id=745526
+[01-Nov-2025 13:24:47 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[01-Nov-2025 13:24:47 America/Mexico_City] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[01-Nov-2025 13:24:47 America/Mexico_City] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[01-Nov-2025 13:24:47 America/Mexico_City] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[04-Nov-2025 12:33:22 America/Mexico_City] [login_process] DB en uso=bg03
+[04-Nov-2025 12:33:22 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[04-Nov-2025 12:33:22 America/Mexico_City] [login_process] Resultado filas=1
+[04-Nov-2025 12:33:28 America/Mexico_City] [login_process] DB en uso=bg03
+[04-Nov-2025 12:33:28 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[04-Nov-2025 12:33:28 America/Mexico_City] [login_process] Resultado filas=1
+[04-Nov-2025 12:33:29 America/Mexico_City] [login_process] Sesión establecida para user_id=745526
+[04-Nov-2025 12:33:29 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[04-Nov-2025 12:33:29 America/Mexico_City] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[04-Nov-2025 12:33:29 America/Mexico_City] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[04-Nov-2025 12:33:29 America/Mexico_City] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[04-Nov-2025 12:46:56 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 212: Módulo 1 a las 15:45:00 para módulo 1
+[04-Nov-2025 12:46:56 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":212,"alarm_name":"M\u00f3dulo 1","alarm_time":"15:45:00","module_id":1,"timestamp":"2025-11-04 12:46:56"}
+[04-Nov-2025 12:46:56 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 13:08:54 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 212: Módulo 1 a las 16:07:00 para módulo 1
+[04-Nov-2025 13:08:54 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":212,"alarm_name":"M\u00f3dulo 1","alarm_time":"16:07:00","module_id":1,"timestamp":"2025-11-04 13:08:54"}
+[04-Nov-2025 13:08:54 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 13:29:30 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 212: Módulo 1 a las 16:27:00 para módulo 1
+[04-Nov-2025 13:29:30 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":212,"alarm_name":"M\u00f3dulo 1","alarm_time":"16:27:00","module_id":1,"timestamp":"2025-11-04 13:29:30"}
+[04-Nov-2025 13:29:30 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 13:30:36 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 212: Módulo 1 a las 16:28:00 para módulo 1
+[04-Nov-2025 13:30:36 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":212,"alarm_name":"M\u00f3dulo 1","alarm_time":"16:28:00","module_id":1,"timestamp":"2025-11-04 13:30:36"}
+[04-Nov-2025 13:30:36 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 14:52:04 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 215: Módulo 1 a las 17:50:00 para módulo 1
+[04-Nov-2025 14:52:04 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":215,"alarm_name":"M\u00f3dulo 1","alarm_time":"17:50:00","module_id":1,"timestamp":"2025-11-04 14:52:04"}
+[04-Nov-2025 14:52:04 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 14:57:17 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 215: Módulo 1 a las 17:56:00 para módulo 1
+[04-Nov-2025 14:57:17 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":215,"alarm_name":"M\u00f3dulo 1","alarm_time":"17:56:00","module_id":1,"timestamp":"2025-11-04 14:57:17"}
+[04-Nov-2025 14:57:17 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 15:02:21 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 215: Módulo 1 a las 18:01:00 para módulo 1
+[04-Nov-2025 15:02:21 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":215,"alarm_name":"M\u00f3dulo 1","alarm_time":"18:01:00","module_id":1,"timestamp":"2025-11-04 15:02:21"}
+[04-Nov-2025 15:02:21 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 15:04:40 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 215: Módulo 1 a las 18:03:00 para módulo 1
+[04-Nov-2025 15:04:40 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":215,"alarm_name":"M\u00f3dulo 1","alarm_time":"18:03:00","module_id":1,"timestamp":"2025-11-04 15:04:40"}
+[04-Nov-2025 15:04:40 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 15:08:18 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 215: Módulo 1 a las 18:07:00 para módulo 1
+[04-Nov-2025 15:08:18 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":215,"alarm_name":"M\u00f3dulo 1","alarm_time":"18:07:00","module_id":1,"timestamp":"2025-11-04 15:08:18"}
+[04-Nov-2025 15:08:18 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 15:11:50 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 217: Módulo 1 a las 18:10:00 para módulo 1
+[04-Nov-2025 15:11:50 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":217,"alarm_name":"M\u00f3dulo 1","alarm_time":"18:10:00","module_id":1,"timestamp":"2025-11-04 15:11:50"}
+[04-Nov-2025 15:11:50 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 15:16:00 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 217: Módulo 1 a las 18:15:00 para módulo 1
+[04-Nov-2025 15:16:00 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":217,"alarm_name":"M\u00f3dulo 1","alarm_time":"18:15:00","module_id":1,"timestamp":"2025-11-04 15:16:00"}
+[04-Nov-2025 15:16:00 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 15:33:03 America/Mexico_City] [login_process] DB en uso=bg03
+[04-Nov-2025 15:33:03 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[04-Nov-2025 15:33:03 America/Mexico_City] [login_process] Resultado filas=1
+[04-Nov-2025 15:33:04 America/Mexico_City] [login_process] Sesión establecida para user_id=745526
+[04-Nov-2025 15:33:04 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[04-Nov-2025 15:33:04 America/Mexico_City] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[04-Nov-2025 15:33:04 America/Mexico_City] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[04-Nov-2025 15:33:04 America/Mexico_City] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[04-Nov-2025 15:45:26 America/Mexico_City] [login_process] DB en uso=bg03
+[04-Nov-2025 15:45:26 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[04-Nov-2025 15:45:26 America/Mexico_City] [login_process] Resultado filas=1
+[04-Nov-2025 15:45:37 America/Mexico_City] [login_process] DB en uso=bg03
+[04-Nov-2025 15:45:37 America/Mexico_City] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[04-Nov-2025 15:45:37 America/Mexico_City] [login_process] Resultado filas=1
+[04-Nov-2025 15:45:40 America/Mexico_City] [login_process] Sesión establecida para user_id=745526
+[04-Nov-2025 15:45:40 America/Mexico_City] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[04-Nov-2025 15:45:40 America/Mexico_City] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[04-Nov-2025 15:45:40 America/Mexico_City] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[04-Nov-2025 15:45:40 America/Mexico_City] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[04-Nov-2025 15:47:07 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 218: Módulo 3 a las 18:45:00 para módulo 3
+[04-Nov-2025 15:47:07 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 15:48:16 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 218: Módulo 3 a las 18:46:00 para módulo 3
+[04-Nov-2025 15:48:16 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 15:49:27 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 218: Módulo 3 a las 18:47:00 para módulo 3
+[04-Nov-2025 15:49:27 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 15:50:18 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 219: Módulo 2 a las 18:48:00 para módulo 2
+[04-Nov-2025 15:50:18 America/Mexico_City] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 15:51:19 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 220: Módulo 1 a las 18:49:00 para módulo 1
+[04-Nov-2025 15:51:19 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":220,"alarm_name":"M\u00f3dulo 1","alarm_time":"18:49:00","module_id":1,"timestamp":"2025-11-04 15:51:19"}
+[04-Nov-2025 15:51:19 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 15:52:23 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 220: Módulo 1 a las 18:50:00 para módulo 1
+[04-Nov-2025 15:52:23 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":220,"alarm_name":"M\u00f3dulo 1","alarm_time":"18:50:00","module_id":1,"timestamp":"2025-11-04 15:52:23"}
+[04-Nov-2025 15:52:23 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 15:53:30 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 220: Módulo 1 a las 18:51:00 para módulo 1
+[04-Nov-2025 15:53:30 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":220,"alarm_name":"M\u00f3dulo 1","alarm_time":"18:51:00","module_id":1,"timestamp":"2025-11-04 15:53:30"}
+[04-Nov-2025 15:53:30 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 15:54:28 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 220: Módulo 1 a las 18:52:00 para módulo 1
+[04-Nov-2025 15:54:28 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":220,"alarm_name":"M\u00f3dulo 1","alarm_time":"18:52:00","module_id":1,"timestamp":"2025-11-04 15:54:28"}
+[04-Nov-2025 15:54:28 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 16:10:00 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 221: Módulo 1 a las 19:08:00 para módulo 1
+[04-Nov-2025 16:10:00 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":221,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:08:00","module_id":1,"timestamp":"2025-11-04 16:10:00"}
+[04-Nov-2025 16:10:00 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 16:20:37 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 221: Módulo 1 a las 19:19:00 para módulo 1
+[04-Nov-2025 16:20:37 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":221,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:19:00","module_id":1,"timestamp":"2025-11-04 16:20:37"}
+[04-Nov-2025 16:20:37 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 16:32:04 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 221: Módulo 1 a las 19:22:00 para módulo 1
+[04-Nov-2025 16:32:04 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":221,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:22:00","module_id":1,"timestamp":"2025-11-04 16:32:04"}
+[04-Nov-2025 16:32:04 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 16:32:16 America/Mexico_City] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 221: Módulo 1 a las 19:32:00 para módulo 1
+[04-Nov-2025 16:32:16 America/Mexico_City] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":221,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:32:00","module_id":1,"timestamp":"2025-11-04 16:32:16"}
+[04-Nov-2025 16:32:16 America/Mexico_City] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 19:36:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 222: Módulo 1 a las 19:35:00 para módulo 1
+[04-Nov-2025 19:36:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":222,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:35:00","module_id":1,"timestamp":"2025-11-04 19:36:47"}
+[04-Nov-2025 19:36:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 19:41:12 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 223: Módulo 2 a las 19:39:00 para módulo 2
+[04-Nov-2025 19:41:12 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 19:42:17 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 224: Módulo 1 a las 19:40:00 para módulo 1
+[04-Nov-2025 19:42:17 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":224,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:40:00","module_id":1,"timestamp":"2025-11-04 19:42:17"}
+[04-Nov-2025 19:42:17 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 19:42:21 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 225: Módulo 1 a las 19:41:00 para módulo 1
+[04-Nov-2025 19:42:21 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":225,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:41:00","module_id":1,"timestamp":"2025-11-04 19:42:21"}
+[04-Nov-2025 19:42:21 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 19:47:11 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 226: Módulo 1 a las 19:46:00 para módulo 1
+[04-Nov-2025 19:47:11 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":226,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:46:00","module_id":1,"timestamp":"2025-11-04 19:47:11"}
+[04-Nov-2025 19:47:11 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:00:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 227: Módulo 1 a las 19:58:00 para módulo 1
+[04-Nov-2025 20:00:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":227,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:58:00","module_id":1,"timestamp":"2025-11-04 20:00:47"}
+[04-Nov-2025 20:00:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:01:11 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 228: Módulo 1 a las 19:59:00 para módulo 1
+[04-Nov-2025 20:01:11 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":228,"alarm_name":"M\u00f3dulo 1","alarm_time":"19:59:00","module_id":1,"timestamp":"2025-11-04 20:01:11"}
+[04-Nov-2025 20:01:11 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:01:22 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 229: Módulo 2 a las 19:59:00 para módulo 2
+[04-Nov-2025 20:01:22 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 20:04:47 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[04-Nov-2025 20:04:47 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[04-Nov-2025 20:04:47 America/Argentina/Buenos_Aires] [login_process] Resultado filas=1
+[04-Nov-2025 20:04:48 America/Argentina/Buenos_Aires] [login_process] Sesión establecida para user_id=745526
+[04-Nov-2025 20:04:48 America/Argentina/Buenos_Aires] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[04-Nov-2025 20:04:48 America/Argentina/Buenos_Aires] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[04-Nov-2025 20:04:48 America/Argentina/Buenos_Aires] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[04-Nov-2025 20:04:48 America/Argentina/Buenos_Aires] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[04-Nov-2025 20:14:35 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 230: Módulo 1 a las 20:13:00 para módulo 1
+[04-Nov-2025 20:14:35 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":230,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:13:00","module_id":1,"timestamp":"2025-11-04 20:14:35"}
+[04-Nov-2025 20:14:35 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:16:05 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 230: Módulo 1 a las 20:26:00 para módulo 1
+[04-Nov-2025 20:16:05 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":230,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:26:00","module_id":1,"timestamp":"2025-11-04 20:16:05"}
+[04-Nov-2025 20:16:05 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:16:33 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 231: Módulo 1 a las 20:14:00 para módulo 1
+[04-Nov-2025 20:16:33 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":231,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:14:00","module_id":1,"timestamp":"2025-11-04 20:16:33"}
+[04-Nov-2025 20:16:33 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:19:12 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 230: Módulo 1 a las 20:20:00 para módulo 1
+[04-Nov-2025 20:19:12 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":230,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:20:00","module_id":1,"timestamp":"2025-11-04 20:19:12"}
+[04-Nov-2025 20:19:12 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:22:16 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 230: Módulo 1 a las 20:23:00 para módulo 1
+[04-Nov-2025 20:22:16 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":230,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:23:00","module_id":1,"timestamp":"2025-11-04 20:22:16"}
+[04-Nov-2025 20:22:16 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:23:44 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 232: Módulo 1 a las 20:21:00 para módulo 1
+[04-Nov-2025 20:23:44 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":232,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:21:00","module_id":1,"timestamp":"2025-11-04 20:23:44"}
+[04-Nov-2025 20:23:44 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:24:21 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 233: Módulo 1 a las 20:22:00 para módulo 1
+[04-Nov-2025 20:24:21 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":233,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:22:00","module_id":1,"timestamp":"2025-11-04 20:24:21"}
+[04-Nov-2025 20:24:21 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:26:02 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 234: Módulo 2 a las 20:24:00 para módulo 2
+[04-Nov-2025 20:26:02 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 20:28:26 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 235: Módulo 2 a las 20:26:00 para módulo 2
+[04-Nov-2025 20:28:26 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 20:28:35 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 236: Módulo 1 a las 20:26:00 para módulo 1
+[04-Nov-2025 20:28:35 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":236,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:26:00","module_id":1,"timestamp":"2025-11-04 20:28:35"}
+[04-Nov-2025 20:28:35 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:28:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 237: Módulo 3 a las 20:26:00 para módulo 3
+[04-Nov-2025 20:28:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 20:29:34 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 238: Módulo 1 a las 20:27:00 para módulo 1
+[04-Nov-2025 20:29:34 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":238,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:27:00","module_id":1,"timestamp":"2025-11-04 20:29:34"}
+[04-Nov-2025 20:29:34 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:36:02 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 239: Módulo 1 a las 20:35:00 para módulo 1
+[04-Nov-2025 20:36:02 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":239,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:35:00","module_id":1,"timestamp":"2025-11-04 20:36:02"}
+[04-Nov-2025 20:36:02 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:36:38 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 239: Módulo 1 a las 20:40:00 para módulo 1
+[04-Nov-2025 20:36:38 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":239,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:40:00","module_id":1,"timestamp":"2025-11-04 20:36:38"}
+[04-Nov-2025 20:36:38 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:41:18 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 240: Módulo 1 a las 20:39:00 para módulo 1
+[04-Nov-2025 20:41:18 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":240,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:39:00","module_id":1,"timestamp":"2025-11-04 20:41:18"}
+[04-Nov-2025 20:41:18 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:41:22 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 239: Módulo 1 a las 20:45:00 para módulo 1
+[04-Nov-2025 20:41:22 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":239,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:45:00","module_id":1,"timestamp":"2025-11-04 20:41:22"}
+[04-Nov-2025 20:41:22 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 20:41:28 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 241: Módulo 2 a las 20:39:00 para módulo 2
+[04-Nov-2025 20:41:28 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 20:41:38 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 242: Módulo 3 a las 20:39:00 para módulo 3
+[04-Nov-2025 20:41:38 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 20:43:01 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 243: Módulo 4 a las 20:55:00 para módulo 4
+[04-Nov-2025 20:43:01 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 4 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 20:48:00 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 244: Módulo 5 a las 20:50:00 para módulo 5
+[04-Nov-2025 20:48:00 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 20:50:56 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 243: Módulo 4 a las 20:53:00 para módulo 4
+[04-Nov-2025 20:50:56 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 4 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 20:51:11 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 243: Módulo 4 a las 20:52:00 para módulo 4
+[04-Nov-2025 20:51:11 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 4 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 20:55:30 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 226: Módulo 1 a las 20:56:00 para módulo 1
+[04-Nov-2025 20:55:30 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":226,"alarm_name":"M\u00f3dulo 1","alarm_time":"20:56:00","module_id":1,"timestamp":"2025-11-04 20:55:30"}
+[04-Nov-2025 20:55:30 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 21:05:40 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 243: Módulo 4 a las 21:05:00 para módulo 4
+[04-Nov-2025 21:05:40 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 4 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 21:06:06 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 243: Módulo 4 a las 21:06:00 para módulo 4
+[04-Nov-2025 21:06:06 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 4 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 21:06:24 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 243: Módulo 4 a las 21:07:00 para módulo 4
+[04-Nov-2025 21:06:24 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 4 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 21:07:41 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 245: Módulo 1 a las 21:05:00 para módulo 1
+[04-Nov-2025 21:07:41 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":245,"alarm_name":"M\u00f3dulo 1","alarm_time":"21:05:00","module_id":1,"timestamp":"2025-11-04 21:07:41"}
+[04-Nov-2025 21:07:41 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 21:13:46 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 246: Módulo 1 a las 21:11:00 para módulo 1
+[04-Nov-2025 21:13:46 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":246,"alarm_name":"M\u00f3dulo 1","alarm_time":"21:11:00","module_id":1,"timestamp":"2025-11-04 21:13:46"}
+[04-Nov-2025 21:13:46 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 21:15:25 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 247: Módulo 1 a las 21:13:00 para módulo 1
+[04-Nov-2025 21:15:25 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":247,"alarm_name":"M\u00f3dulo 1","alarm_time":"21:13:00","module_id":1,"timestamp":"2025-11-04 21:15:25"}
+[04-Nov-2025 21:15:25 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 21:16:53 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 248: Módulo 2 a las 22:22:00 para módulo 2
+[04-Nov-2025 21:16:53 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 21:19:37 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 249: Módulo 2 a las 21:19:00 para módulo 2
+[04-Nov-2025 21:19:37 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 21:19:56 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 250: Módulo 1 a las 21:18:00 para módulo 1
+[04-Nov-2025 21:19:56 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":250,"alarm_name":"M\u00f3dulo 1","alarm_time":"21:18:00","module_id":1,"timestamp":"2025-11-04 21:19:56"}
+[04-Nov-2025 21:19:56 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 21:20:12 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 251: Módulo 2 a las 21:18:00 para módulo 2
+[04-Nov-2025 21:20:12 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 21:20:15 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 252: Módulo 2 a las 21:23:00 para módulo 2
+[04-Nov-2025 21:20:15 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 21:20:31 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 252: Módulo 2 a las 21:22:00 para módulo 2
+[04-Nov-2025 21:20:31 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 21:20:46 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 252: Módulo 2 a las 21:21:00 para módulo 2
+[04-Nov-2025 21:20:46 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 21:25:55 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 253: Módulo 3 a las 21:26:00 para módulo 3
+[04-Nov-2025 21:25:55 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 21:29:05 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 253: Módulo 3 a las 21:29:00 para módulo 3
+[04-Nov-2025 21:29:05 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 21:30:38 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 253: Módulo 3 a las 21:28:00 para módulo 3
+[04-Nov-2025 21:30:38 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 21:31:32 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 254: Módulo 3 a las 21:32:00 para módulo 3
+[04-Nov-2025 21:31:32 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 21:35:10 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 254: Módulo 3 a las 21:38:00 para módulo 3
+[04-Nov-2025 21:35:10 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[04-Nov-2025 21:38:39 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 255: Módulo 1 a las 21:36:00 para módulo 1
+[04-Nov-2025 21:38:39 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":255,"alarm_name":"M\u00f3dulo 1","alarm_time":"21:36:00","module_id":1,"timestamp":"2025-11-04 21:38:39"}
+[04-Nov-2025 21:38:39 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[04-Nov-2025 21:39:22 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 256: Módulo 1 a las 21:37:00 para módulo 1
+[04-Nov-2025 21:39:22 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":256,"alarm_name":"M\u00f3dulo 1","alarm_time":"21:37:00","module_id":1,"timestamp":"2025-11-04 21:39:22"}
+[04-Nov-2025 21:39:22 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 01:21:37 America/Argentina/Buenos_Aires] [google_callback] Buscando usuario existente con google_id: 117783703383733056843
+[05-Nov-2025 01:21:37 America/Argentina/Buenos_Aires] [google_callback] Usuario existente encontrado: id=781497 rol=cuidador
+[05-Nov-2025 11:43:25 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[05-Nov-2025 11:43:25 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[05-Nov-2025 11:43:25 America/Argentina/Buenos_Aires] [login_process] Resultado filas=1
+[05-Nov-2025 11:43:26 America/Argentina/Buenos_Aires] [login_process] Sesión establecida para user_id=745526
+[05-Nov-2025 11:43:26 America/Argentina/Buenos_Aires] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[05-Nov-2025 11:43:26 America/Argentina/Buenos_Aires] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[05-Nov-2025 11:43:26 America/Argentina/Buenos_Aires] PHP Notice:  Only variables should be passed by reference in C:\Proyectos\pastissl\login_process.php on line 183
+[05-Nov-2025 11:43:26 America/Argentina/Buenos_Aires] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[05-Nov-2025 11:43:26 America/Argentina/Buenos_Aires] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[05-Nov-2025 12:07:42 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 257: Módulo 1 a las 12:05:00 para módulo 1
+[05-Nov-2025 12:07:42 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":257,"alarm_name":"M\u00f3dulo 1","alarm_time":"12:05:00","module_id":1,"timestamp":"2025-11-05 12:07:42"}
+[05-Nov-2025 12:07:42 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 12:08:21 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 257: Módulo 1 a las 12:06:00 para módulo 1
+[05-Nov-2025 12:08:21 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":257,"alarm_name":"M\u00f3dulo 1","alarm_time":"12:06:00","module_id":1,"timestamp":"2025-11-05 12:08:21"}
+[05-Nov-2025 12:08:21 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 12:09:35 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 257: Módulo 1 a las 12:07:00 para módulo 1
+[05-Nov-2025 12:09:35 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":257,"alarm_name":"M\u00f3dulo 1","alarm_time":"12:07:00","module_id":1,"timestamp":"2025-11-05 12:09:35"}
+[05-Nov-2025 12:09:35 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 12:11:14 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 258: Módulo 3 a las 12:09:00 para módulo 3
+[05-Nov-2025 12:11:14 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 12:12:40 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 258: Módulo 3 a las 12:10:00 para módulo 3
+[05-Nov-2025 12:12:40 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 12:39:28 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 259: Módulo 1 a las 12:37:00 para módulo 1
+[05-Nov-2025 12:39:28 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":259,"alarm_name":"M\u00f3dulo 1","alarm_time":"12:37:00","module_id":1,"timestamp":"2025-11-05 12:39:28"}
+[05-Nov-2025 12:39:28 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 12:39:42 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 260: Módulo 2 a las 12:38:00 para módulo 2
+[05-Nov-2025 12:39:42 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 12:39:56 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 258: Módulo 3 a las 12:39:00 para módulo 3
+[05-Nov-2025 12:39:56 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 12:42:57 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 258: Módulo 3 a las 12:41:00 para módulo 3
+[05-Nov-2025 12:42:57 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 12:45:33 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 261: Módulo 4 a las 12:43:00 para módulo 4
+[05-Nov-2025 12:45:33 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 4 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 12:45:50 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 262: Módulo 5 a las 12:44:00 para módulo 5
+[05-Nov-2025 12:45:50 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 14:14:20 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 262: Módulo 5 a las 14:12:00 para módulo 5
+[05-Nov-2025 14:14:20 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 14:35:56 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 263: Módulo 5 a las 14:34:00 para módulo 5
+[05-Nov-2025 14:35:56 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 15:40:00 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[05-Nov-2025 15:40:00 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[05-Nov-2025 15:40:00 America/Argentina/Buenos_Aires] [login_process] Resultado filas=1
+[05-Nov-2025 15:40:01 America/Argentina/Buenos_Aires] [login_process] Sesión establecida para user_id=745526
+[05-Nov-2025 15:40:01 America/Argentina/Buenos_Aires] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[05-Nov-2025 15:40:01 America/Argentina/Buenos_Aires] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[05-Nov-2025 15:40:01 America/Argentina/Buenos_Aires] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[05-Nov-2025 15:40:01 America/Argentina/Buenos_Aires] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[05-Nov-2025 15:48:08 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 264: Módulo 1 a las 15:48:00 para módulo 1
+[05-Nov-2025 15:48:08 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":264,"alarm_name":"M\u00f3dulo 1","alarm_time":"15:48:00","module_id":1,"timestamp":"2025-11-05 15:48:08"}
+[05-Nov-2025 15:48:08 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 15:49:38 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 264: Módulo 1 a las 15:50:00 para módulo 1
+[05-Nov-2025 15:49:38 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":264,"alarm_name":"M\u00f3dulo 1","alarm_time":"15:50:00","module_id":1,"timestamp":"2025-11-05 15:49:38"}
+[05-Nov-2025 15:49:38 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 15:58:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 267: Módulo 1 a las 15:59:00 para módulo 1
+[05-Nov-2025 15:58:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":267,"alarm_name":"M\u00f3dulo 1","alarm_time":"15:59:00","module_id":1,"timestamp":"2025-11-05 15:58:47"}
+[05-Nov-2025 15:58:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 16:38:27 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 276: Módulo 1 a las 16:39:00 para módulo 1
+[05-Nov-2025 16:38:27 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":276,"alarm_name":"M\u00f3dulo 1","alarm_time":"16:39:00","module_id":1,"timestamp":"2025-11-05 16:38:27"}
+[05-Nov-2025 16:38:27 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 16:46:39 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 277: Módulo 1 a las 16:48:00 para módulo 1
+[05-Nov-2025 16:46:39 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":277,"alarm_name":"M\u00f3dulo 1","alarm_time":"16:48:00","module_id":1,"timestamp":"2025-11-05 16:46:39"}
+[05-Nov-2025 16:46:39 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 16:47:01 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 277: Módulo 1 a las 16:47:00 para módulo 1
+[05-Nov-2025 16:47:01 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":277,"alarm_name":"M\u00f3dulo 1","alarm_time":"16:47:00","module_id":1,"timestamp":"2025-11-05 16:47:01"}
+[05-Nov-2025 16:47:01 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 16:54:46 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 278: Módulo 1 a las 16:55:00 para módulo 1
+[05-Nov-2025 16:54:46 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":278,"alarm_name":"M\u00f3dulo 1","alarm_time":"16:55:00","module_id":1,"timestamp":"2025-11-05 16:54:46"}
+[05-Nov-2025 16:54:46 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 16:58:58 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 280: Módulo 1 a las 17:00:00 para módulo 1
+[05-Nov-2025 16:58:58 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":280,"alarm_name":"M\u00f3dulo 1","alarm_time":"17:00:00","module_id":1,"timestamp":"2025-11-05 16:58:58"}
+[05-Nov-2025 16:58:58 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 17:04:12 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 281: Módulo 1 a las 17:05:00 para módulo 1
+[05-Nov-2025 17:04:12 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":281,"alarm_name":"M\u00f3dulo 1","alarm_time":"17:05:00","module_id":1,"timestamp":"2025-11-05 17:04:12"}
+[05-Nov-2025 17:04:12 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 17:05:20 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 282: Módulo 1 a las 17:06:00 para módulo 1
+[05-Nov-2025 17:05:20 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":282,"alarm_name":"M\u00f3dulo 1","alarm_time":"17:06:00","module_id":1,"timestamp":"2025-11-05 17:05:20"}
+[05-Nov-2025 17:05:20 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 17:05:51 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 283: Módulo 1 a las 17:07:00 para módulo 1
+[05-Nov-2025 17:05:51 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":283,"alarm_name":"M\u00f3dulo 1","alarm_time":"17:07:00","module_id":1,"timestamp":"2025-11-05 17:05:51"}
+[05-Nov-2025 17:05:51 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 17:11:04 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 284: Módulo 1 a las 17:12:00 para módulo 1
+[05-Nov-2025 17:11:04 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":284,"alarm_name":"M\u00f3dulo 1","alarm_time":"17:12:00","module_id":1,"timestamp":"2025-11-05 17:11:04"}
+[05-Nov-2025 17:11:04 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 17:11:12 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 285: Módulo 1 a las 17:13:00 para módulo 1
+[05-Nov-2025 17:11:12 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":285,"alarm_name":"M\u00f3dulo 1","alarm_time":"17:13:00","module_id":1,"timestamp":"2025-11-05 17:11:12"}
+[05-Nov-2025 17:11:12 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 17:12:29 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 286: Módulo 2 a las 17:14:00 para módulo 2
+[05-Nov-2025 17:12:29 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 17:12:37 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 287: Módulo 3 a las 17:14:00 para módulo 3
+[05-Nov-2025 17:12:37 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 17:17:44 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 288: Módulo 3 a las 17:19:00 para módulo 3
+[05-Nov-2025 17:17:44 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 17:17:48 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 289: Módulo 5 a las 17:15:00 para módulo 5
+[05-Nov-2025 17:17:48 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 17:17:52 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 290: Módulo 3 a las 17:20:00 para módulo 3
+[05-Nov-2025 17:17:52 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 17:18:02 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 291: Módulo 2 a las 17:20:00 para módulo 2
+[05-Nov-2025 17:18:02 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 17:31:09 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 292: Módulo 1 a las 17:32:00 para módulo 1
+[05-Nov-2025 17:31:09 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":292,"alarm_name":"M\u00f3dulo 1","alarm_time":"17:32:00","module_id":1,"timestamp":"2025-11-05 17:31:09"}
+[05-Nov-2025 17:31:09 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 17:35:53 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 292: Módulo 1 a las 17:36:00 para módulo 1
+[05-Nov-2025 17:35:53 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":292,"alarm_name":"M\u00f3dulo 1","alarm_time":"17:36:00","module_id":1,"timestamp":"2025-11-05 17:35:53"}
+[05-Nov-2025 17:35:53 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 17:41:18 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 293: Módulo 3 a las 17:43:00 para módulo 3
+[05-Nov-2025 17:41:18 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 17:48:42 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 294: Módulo 1 a las 17:50:00 para módulo 1
+[05-Nov-2025 17:48:42 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":294,"alarm_name":"M\u00f3dulo 1","alarm_time":"17:50:00","module_id":1,"timestamp":"2025-11-05 17:48:42"}
+[05-Nov-2025 17:48:42 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 17:48:51 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 295: Módulo 2 a las 17:50:00 para módulo 2
+[05-Nov-2025 17:48:51 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 17:52:54 America/Argentina/Buenos_Aires] [google_callback] Buscando usuario existente con google_id: 110436412710430791261
+[05-Nov-2025 17:52:54 America/Argentina/Buenos_Aires] [google_callback] Usuario existente encontrado: id=704398 rol=cuidador
+[05-Nov-2025 17:53:37 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 296: Módulo 1 a las 17:55:00 para módulo 1
+[05-Nov-2025 17:53:37 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":296,"alarm_name":"M\u00f3dulo 1","alarm_time":"17:55:00","module_id":1,"timestamp":"2025-11-05 17:53:37"}
+[05-Nov-2025 17:53:37 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[2025-11-05 17:54:25] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-11-05 17:54:31] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[05-Nov-2025 18:26:21 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 297: Módulo 1 a las 18:28:00 para módulo 1
+[05-Nov-2025 18:26:21 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":297,"alarm_name":"M\u00f3dulo 1","alarm_time":"18:28:00","module_id":1,"timestamp":"2025-11-05 18:26:21"}
+[05-Nov-2025 18:26:21 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[2025-11-05 18:27:32] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[05-Nov-2025 18:39:46 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[05-Nov-2025 18:39:46 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[05-Nov-2025 18:39:46 America/Argentina/Buenos_Aires] [login_process] Resultado filas=1
+[05-Nov-2025 18:39:47 America/Argentina/Buenos_Aires] [login_process] Sesión establecida para user_id=745526
+[05-Nov-2025 18:39:47 America/Argentina/Buenos_Aires] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[05-Nov-2025 18:39:47 America/Argentina/Buenos_Aires] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[05-Nov-2025 18:39:47 America/Argentina/Buenos_Aires] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[05-Nov-2025 18:39:47 America/Argentina/Buenos_Aires] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[05-Nov-2025 18:40:27 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 298: Módulo 5 a las 18:37:00 para módulo 5
+[05-Nov-2025 18:40:27 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 18:40:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 298: Módulo 5 a las 18:38:00 para módulo 5
+[05-Nov-2025 18:40:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 18:41:49 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 298: Módulo 5 a las 18:39:00 para módulo 5
+[05-Nov-2025 18:41:49 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[2025-11-05 18:42:08] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[05-Nov-2025 18:42:08 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 298: Módulo 5 a las 18:40:00 para módulo 5
+[05-Nov-2025 18:42:08 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 18:43:42 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 298: Módulo 5 a las 18:41:00 para módulo 5
+[05-Nov-2025 18:43:42 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 18:46:36 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 298: Módulo 5 a las 18:44:00 para módulo 5
+[05-Nov-2025 18:46:36 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 5 ignorado por ESP configurado solo para módulo 1
+[2025-11-05 18:47:05] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[05-Nov-2025 19:10:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 299: Módulo 4 a las 12:12:00 para módulo 4
+[05-Nov-2025 19:10:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 4 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 19:20:52 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[05-Nov-2025 19:20:52 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=ale.centeno06@gmail.com
+[05-Nov-2025 19:20:52 America/Argentina/Buenos_Aires] [login_process] Resultado filas=1
+[2025-11-05 19:21:55] [Register] Inicio {"db":"bg03","email":"ale.centeno06@gmail.com","role":"cuidador"}
+[2025-11-05 19:22:16] [Register] Inicio {"db":"bg03","email":"empanashex@gmail.com","role":"cuidador"}
+[2025-11-05 19:22:17] [Register] Usuario registrado sin ESP automático - deberá vincular manualmente {"user_id":"991526","role":"cuidador"}
+[2025-11-05 19:22:17] [Register] OK {"user_id":"991526","email":"empanashex@gmail.com"}
+[05-Nov-2025 19:22:26 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[05-Nov-2025 19:22:26 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=empanashex@gmail.com
+[05-Nov-2025 19:22:26 America/Argentina/Buenos_Aires] [login_process] Resultado filas=1
+[05-Nov-2025 19:22:27 America/Argentina/Buenos_Aires] [login_process] Sesión establecida para user_id=991526
+[05-Nov-2025 19:22:27 America/Argentina/Buenos_Aires] [login_process] Cuidador -> dashboard_cuidador.php
+[05-Nov-2025 19:22:27 America/Argentina/Buenos_Aires] [login_process] Login exitoso - Usuario: empanashex (ID: 991526) -> dashboard_cuidador.php
+[2025-11-05 19:27:26] [Email] SendGrid OK {"status":202,"to":"empanashex@gmail.com"}
+[2025-11-05 19:27:26] [ForgotPassword] Email enviado exitosamente {"user_id":"991526","email":"empanashex@gmail.com","token_expires":"2025-11-05 20:27:24"}
+[2025-11-05 19:28:34] [Register] Inicio {"db":"bg03","email":"alepandroyi@gmail.com","role":"cuidador"}
+[2025-11-05 19:28:35] [Register] Usuario registrado sin ESP automático - deberá vincular manualmente {"user_id":"568963","role":"cuidador"}
+[2025-11-05 19:28:35] [Register] OK {"user_id":"568963","email":"alepandroyi@gmail.com"}
+[2025-11-05 19:30:40] [Email] SendGrid OK {"status":202,"to":"alepandroyi@gmail.com"}
+[2025-11-05 19:30:40] [ForgotPassword] Email enviado exitosamente {"user_id":"568963","email":"alepandroyi@gmail.com","token_expires":"2025-11-05 20:30:39"}
+[2025-11-05 19:39:08] [Email] SendGrid OK {"status":202,"to":"alepandroyi@gmail.com"}
+[2025-11-05 19:39:08] [ForgotPassword] Email enviado exitosamente {"user_id":"568963","email":"alepandroyi@gmail.com","token_expires":"2025-11-05 20:39:07"}
+[2025-11-05 19:39:18] [PwdReset] token validado {"user_id":"568963"}
+[2025-11-05 19:39:23] [PwdReset] token rechazado {"reason":"expired","token":"dd97691b29c349e51cbf10d6..."}
+[05-Nov-2025 19:39:47 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[05-Nov-2025 19:39:47 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=alepandroyi@gmail.com
+[05-Nov-2025 19:39:47 America/Argentina/Buenos_Aires] [login_process] Resultado filas=1
+[05-Nov-2025 19:39:48 America/Argentina/Buenos_Aires] [login_process] Sesión establecida para user_id=568963
+[05-Nov-2025 19:39:48 America/Argentina/Buenos_Aires] [login_process] Cuidador -> dashboard_cuidador.php
+[05-Nov-2025 19:39:48 America/Argentina/Buenos_Aires] [login_process] Login exitoso - Usuario: alepandroyi (ID: 568963) -> dashboard_cuidador.php
+[05-Nov-2025 19:40:38 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[05-Nov-2025 19:40:38 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[05-Nov-2025 19:40:38 America/Argentina/Buenos_Aires] [login_process] Resultado filas=1
+[05-Nov-2025 19:40:38 America/Argentina/Buenos_Aires] [login_process] Sesión establecida para user_id=745526
+[05-Nov-2025 19:40:38 America/Argentina/Buenos_Aires] [asociarEspSiNoExiste] Usuario 745526 SÍ tiene ESP vinculado
+[05-Nov-2025 19:40:38 America/Argentina/Buenos_Aires] [login_process] Verificación ESP para user_id=745526 resultado needs_esp32=false
+[05-Nov-2025 19:40:38 America/Argentina/Buenos_Aires] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[05-Nov-2025 19:40:38 America/Argentina/Buenos_Aires] [login_process] Login exitoso - Usuario: pastilleroautomatico (ID: 745526) -> dashboard.php
+[05-Nov-2025 20:13:11 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 300: Módulo 2 a las 21:29:00 para módulo 2
+[05-Nov-2025 20:13:11 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 20:18:55 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 300: Módulo 2 a las 10:29:00 para módulo 2
+[05-Nov-2025 20:18:55 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 2 ignorado por ESP configurado solo para módulo 1
+[05-Nov-2025 20:37:37 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 301: Módulo 1 a las 12:21:00 para módulo 1
+[05-Nov-2025 20:37:37 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":301,"alarm_name":"M\u00f3dulo 1","alarm_time":"12:21:00","module_id":1,"timestamp":"2025-11-05 20:37:37"}
+[05-Nov-2025 20:37:37 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[05-Nov-2025 20:39:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 302: Módulo 1 a las 12:12:00 para módulo 1
+[05-Nov-2025 20:39:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":302,"alarm_name":"M\u00f3dulo 1","alarm_time":"12:12:00","module_id":1,"timestamp":"2025-11-05 20:39:47"}
+[05-Nov-2025 20:39:47 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[2025-11-05 20:43:05] [Email] SendGrid OK {"status":202,"to":"alepandroyi@gmail.com"}
+[2025-11-05 20:43:05] [ForgotPassword] Email enviado exitosamente {"user_id":"568963","email":"alepandroyi@gmail.com","token_expires":"2025-11-05 21:43:02"}
+[2025-11-05 20:43:28] [Email] SendGrid OK {"status":202,"to":"alepandroyi@gmail.com"}
+[2025-11-05 20:43:28] [ForgotPassword] Email enviado exitosamente {"user_id":"568963","email":"alepandroyi@gmail.com","token_expires":"2025-11-05 21:43:27"}
+[2025-11-05 20:46:43] [Email] SendGrid OK {"status":202,"to":"alepandroyi@gmail.com"}
+[2025-11-05 20:46:43] [ForgotPassword] Email enviado exitosamente {"user_id":"568963","email":"alepandroyi@gmail.com","token_expires":"2025-11-05 21:46:40"}
+[2025-11-05 20:47:40] [Email] SendGrid OK {"status":202,"to":"alepandroyi@gmail.com"}
+[2025-11-05 20:47:40] [ForgotPassword] Email enviado exitosamente {"user_id":"568963","email":"alepandroyi@gmail.com","token_expires":"2025-11-05 21:47:35"}
+[2025-11-05 20:49:53] [Email] SendGrid OK {"status":202,"to":"alepandroyi@gmail.com"}
+[2025-11-05 20:49:53] [ForgotPassword] Email enviado exitosamente {"user_id":"568963","email":"alepandroyi@gmail.com","token_expires":"2025-11-05 21:49:52"}
+[2025-11-05 20:50:04] [PwdReset] token validado {"user_id":"568963"}
+[2025-11-05 20:50:38] [Email] SendGrid OK {"status":202,"to":"alepandroyi@gmail.com"}
+[2025-11-05 20:50:38] [ForgotPassword] Email enviado exitosamente {"user_id":"568963","email":"alepandroyi@gmail.com","token_expires":"2025-11-05 21:50:37"}
+[2025-11-05 20:53:57] [Email] SendGrid OK {"status":202,"to":"alepandroyi@gmail.com"}
+[2025-11-05 20:53:57] [ForgotPassword] Email enviado exitosamente {"user_id":"568963","email":"alepandroyi@gmail.com","token_expires":"2025-11-05 21:53:54"}
+[2025-11-05 20:57:33] [Email] SendGrid OK {"status":202,"to":"alepandroyi@gmail.com"}
+[2025-11-05 20:57:33] [ForgotPassword] Email enviado exitosamente {"user_id":"568963","email":"alepandroyi@gmail.com","token_expires":"2025-11-05 21:57:31"}
+[2025-11-05 20:58:23] [Email] SendGrid OK {"status":202,"to":"alepandroyi@gmail.com"}
+[2025-11-05 20:58:23] [ForgotPassword] Email enviado exitosamente {"user_id":"568963","email":"alepandroyi@gmail.com","token_expires":"2025-11-05 21:58:22"}
+[2025-11-05 21:00:21] [Email] SendGrid OK {"status":202,"to":"alepandroyi@gmail.com"}
+[2025-11-05 21:00:21] [ForgotPassword] Email enviado exitosamente {"user_id":"568963","email":"alepandroyi@gmail.com","token_expires":"2025-11-05 22:00:19"}
+[2025-11-05 21:10:03] [Email] SendGrid OK {"status":202,"to":"alepandroyi@gmail.com"}
+[2025-11-05 21:10:03] [ForgotPassword] Email enviado exitosamente {"user_id":"568963","email":"alepandroyi@gmail.com","token_expires":"2025-11-05 22:10:01"}
+[2025-11-05 21:17:11] [Email] SendGrid OK {"status":202,"to":"alepandroyi@gmail.com"}
+[2025-11-05 21:17:11] [ForgotPassword] Email enviado exitosamente {"user_id":"568963","email":"alepandroyi@gmail.com","token_expires":"2025-11-05 22:17:03"}
+[06-Nov-2025 02:30:17 America/Argentina/Buenos_Aires] [google_callback] Buscando usuario existente con google_id: 110436412710430791261
+[06-Nov-2025 02:30:17 America/Argentina/Buenos_Aires] [google_callback] Usuario existente encontrado: id=704398 rol=cuidador
+[2025-11-06 02:30:43] [ChangeEmail] Inicio {"user_id":"704398","current_email":"luciana.magali.28@gmail.com","new_email":"lucianavecchiarelli1@gmail.com"}
+[2025-11-06 02:30:43] [ChangeEmail] Token creado {"user_id":"704398","new_email":"lucianavecchiarelli1@gmail.com","token":"email_change_fa71b9949c0cdaaced5c1da4276668a8c5ebc1ac4c57676e340caf75f14f34c5","expires":"2025-11-06 03:00:43"}
+[2025-11-06 02:30:44] [Email] SendGrid OK {"status":202,"to":"luciana.magali.28@gmail.com"}
+[2025-11-06 02:30:44] [Email] resultado envío cambio email {"email":"luciana.magali.28@gmail.com","new_email":"lucianavecchiarelli1@gmail.com","result":{"success":true,"status":202}}
+[2025-11-06 02:34:46] [ChangePassword] Inicio {"user_id":"704398"}
+[2025-11-06 02:44:13] [Register] Inicio {"db":"bg03","email":"luks19carril@gmail.com","role":"paciente"}
+[2025-11-06 02:44:13] [Register] Usuario registrado sin ESP automático - deberá vincular manualmente {"user_id":"841077","role":"paciente"}
+[2025-11-06 02:44:13] [Register] OK {"user_id":"841077","email":"luks19carril@gmail.com"}
+[06-Nov-2025 02:44:28 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[06-Nov-2025 02:44:28 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=luks19carril@gmail.com
+[06-Nov-2025 02:44:28 America/Argentina/Buenos_Aires] [login_process] Resultado filas=1
+[06-Nov-2025 02:44:28 America/Argentina/Buenos_Aires] [login_process] Sesión establecida para user_id=841077
+[06-Nov-2025 02:44:28 America/Argentina/Buenos_Aires] [asociarEspSiNoExiste] Usuario 841077 NO tiene ESP vinculado - needs_esp32=true
+[06-Nov-2025 02:44:28 America/Argentina/Buenos_Aires] [login_process] Verificación ESP para user_id=841077 resultado needs_esp32=true
+[06-Nov-2025 02:44:28 America/Argentina/Buenos_Aires] [login_process] Paciente SIN ESP vinculado -> vincular_esp.php
+[06-Nov-2025 02:44:28 America/Argentina/Buenos_Aires] [login_process] Login exitoso - Usuario: luks19carril (ID: 841077) -> vincular_esp.php
+[2025-11-06 02:44:58] [ChangePassword] Inicio {"user_id":"841077"}
+[2025-11-06 02:44:59] [ChangePassword] Contraseña cambiada exitosamente {"user_id":"841077"}
+[06-Nov-2025 02:45:22 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[06-Nov-2025 02:45:22 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=luks19carril@gmail.com
+[06-Nov-2025 02:45:22 America/Argentina/Buenos_Aires] [login_process] Resultado filas=1
+[06-Nov-2025 02:45:23 America/Argentina/Buenos_Aires] [login_process] Sesión establecida para user_id=841077
+[06-Nov-2025 02:45:23 America/Argentina/Buenos_Aires] [asociarEspSiNoExiste] Usuario 841077 NO tiene ESP vinculado - needs_esp32=true
+[06-Nov-2025 02:45:23 America/Argentina/Buenos_Aires] [login_process] Verificación ESP para user_id=841077 resultado needs_esp32=true
+[06-Nov-2025 02:45:23 America/Argentina/Buenos_Aires] [login_process] Paciente SIN ESP vinculado -> vincular_esp.php
+[06-Nov-2025 02:45:23 America/Argentina/Buenos_Aires] [login_process] Login exitoso - Usuario: luks19carril (ID: 841077) -> vincular_esp.php
+[06-Nov-2025 12:20:40 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[06-Nov-2025 12:20:40 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[06-Nov-2025 12:20:40 America/Argentina/Buenos_Aires] [login_process] Resultado filas=0
+[06-Nov-2025 12:20:52 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[06-Nov-2025 12:20:52 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[06-Nov-2025 12:20:52 America/Argentina/Buenos_Aires] [login_process] Resultado filas=0
+[06-Nov-2025 12:22:17 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[06-Nov-2025 12:22:17 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=pastilleroautomatico7@gmail.com
+[06-Nov-2025 12:22:17 America/Argentina/Buenos_Aires] [login_process] Resultado filas=0
+[06-Nov-2025 12:37:14 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[06-Nov-2025 12:37:14 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=luks19carril@gmail.com
+[06-Nov-2025 12:37:14 America/Argentina/Buenos_Aires] [login_process] Resultado filas=1
+[06-Nov-2025 12:37:23 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[06-Nov-2025 12:37:23 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=luks19carril@gmail.com
+[06-Nov-2025 12:37:23 America/Argentina/Buenos_Aires] [login_process] Resultado filas=1
+[06-Nov-2025 12:37:23 America/Argentina/Buenos_Aires] [login_process] Sesión establecida para user_id=841077
+[06-Nov-2025 12:37:23 America/Argentina/Buenos_Aires] [asociarEspSiNoExiste] Usuario 841077 NO tiene ESP vinculado - needs_esp32=true
+[06-Nov-2025 12:37:23 America/Argentina/Buenos_Aires] [login_process] Verificación ESP para user_id=841077 resultado needs_esp32=true
+[06-Nov-2025 12:37:23 America/Argentina/Buenos_Aires] [login_process] Paciente SIN ESP vinculado -> vincular_esp.php
+[06-Nov-2025 12:37:23 America/Argentina/Buenos_Aires] [login_process] Login exitoso - Usuario: luks19carril (ID: 841077) -> vincular_esp.php
+[06-Nov-2025 12:37:55 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 303: Módulo 1 a las 12:35:00 para módulo 1
+[06-Nov-2025 12:37:55 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":303,"alarm_name":"M\u00f3dulo 1","alarm_time":"12:35:00","module_id":1,"timestamp":"2025-11-06 12:37:55"}
+[06-Nov-2025 12:37:55 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[2025-11-06 12:38:05] [Email] SendGrid OK {"status":202,"to":"luks19carril@gmail.com"}
+[06-Nov-2025 12:38:16 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 303: Módulo 1 a las 12:36:00 para módulo 1
+[06-Nov-2025 12:38:16 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":303,"alarm_name":"M\u00f3dulo 1","alarm_time":"12:36:00","module_id":1,"timestamp":"2025-11-06 12:38:16"}
+[06-Nov-2025 12:38:16 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[06-Nov-2025 12:42:00 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 303: Módulo 1 a las 12:40:00 para módulo 1
+[06-Nov-2025 12:42:00 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":303,"alarm_name":"M\u00f3dulo 1","alarm_time":"12:40:00","module_id":1,"timestamp":"2025-11-06 12:42:00"}
+[06-Nov-2025 12:42:00 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[2025-11-06 12:43:01] [Email] SendGrid OK {"status":202,"to":"luks19carril@gmail.com"}
+[06-Nov-2025 12:43:32 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 303: Módulo 1 a las 12:41:00 para módulo 1
+[06-Nov-2025 12:43:32 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":303,"alarm_name":"M\u00f3dulo 1","alarm_time":"12:41:00","module_id":1,"timestamp":"2025-11-06 12:43:32"}
+[06-Nov-2025 12:43:32 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[06-Nov-2025 12:44:49 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 303: Módulo 1 a las 12:42:00 para módulo 1
+[06-Nov-2025 12:44:49 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":303,"alarm_name":"M\u00f3dulo 1","alarm_time":"12:42:00","module_id":1,"timestamp":"2025-11-06 12:44:49"}
+[06-Nov-2025 12:44:49 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[06-Nov-2025 12:46:18 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 303: Módulo 1 a las 12:44:00 para módulo 1
+[06-Nov-2025 12:46:18 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":303,"alarm_name":"M\u00f3dulo 1","alarm_time":"12:44:00","module_id":1,"timestamp":"2025-11-06 12:46:18"}
+[06-Nov-2025 12:46:18 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[06-Nov-2025 14:24:55 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 303: Módulo 1 a las 14:23:00 para módulo 1
+[06-Nov-2025 14:24:55 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 📝 Alarma registrada para ESP ESP32_001: {"device_code":"ESP32_001","alarm_id":303,"alarm_name":"M\u00f3dulo 1","alarm_time":"14:23:00","module_id":1,"timestamp":"2025-11-06 14:24:55"}
+[06-Nov-2025 14:24:55 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🔄 ESP ESP32_001 recogerá la alarma en próxima consulta periódica
+[2025-11-06 14:26:08] [Email] SendGrid OK {"status":202,"to":"luks19carril@gmail.com"}
+[06-Nov-2025 14:26:34 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 304: Módulo 3 a las 14:24:00 para módulo 3
+[06-Nov-2025 14:26:34 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[06-Nov-2025 14:26:42 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 304: Módulo 3 a las 14:24:00 para módulo 3
+[06-Nov-2025 14:26:42 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[2025-11-06 14:26:59] [Email] SendGrid OK {"status":202,"to":"luks19carril@gmail.com"}
+[06-Nov-2025 14:28:14 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 304: Módulo 3 a las 14:26:00 para módulo 3
+[06-Nov-2025 14:28:14 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[06-Nov-2025 14:31:35 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 304: Módulo 3 a las 14:29:00 para módulo 3
+[06-Nov-2025 14:31:35 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[2025-11-06 14:31:59] [Email] SendGrid OK {"status":202,"to":"luks19carril@gmail.com"}
+[06-Nov-2025 14:38:13 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 305: Módulo 3 a las 14:37:00 para módulo 3
+[06-Nov-2025 14:38:13 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[06-Nov-2025 14:38:23 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 304: Módulo 3 a las 14:36:00 para módulo 3
+[06-Nov-2025 14:38:23 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[2025-11-06 14:39:01] [Email] SendGrid OK {"status":202,"to":"luks19carril@gmail.com"}
+[06-Nov-2025 15:21:58 America/Argentina/Buenos_Aires] [login_process] DB en uso=bg03
+[06-Nov-2025 15:21:58 America/Argentina/Buenos_Aires] [login_process] Iniciando consulta usuario=luks19carril@gmail.com
+[06-Nov-2025 15:21:58 America/Argentina/Buenos_Aires] [login_process] Resultado filas=1
+[06-Nov-2025 15:21:58 America/Argentina/Buenos_Aires] [login_process] Sesión establecida para user_id=841077
+[06-Nov-2025 15:21:58 America/Argentina/Buenos_Aires] [asociarEspSiNoExiste] Usuario 841077 SÍ tiene ESP vinculado
+[06-Nov-2025 15:21:58 America/Argentina/Buenos_Aires] [login_process] Verificación ESP para user_id=841077 resultado needs_esp32=false
+[06-Nov-2025 15:21:58 America/Argentina/Buenos_Aires] [login_process] Paciente CON ESP vinculado -> dashboard.php
+[06-Nov-2025 15:21:58 America/Argentina/Buenos_Aires] [login_process] Login exitoso - Usuario: luks19carril (ID: 841077) -> dashboard.php
+[06-Nov-2025 18:35:02 America/Argentina/Buenos_Aires] [google_callback] Buscando usuario existente con google_id: 113490845105077541254
+[06-Nov-2025 18:35:02 America/Argentina/Buenos_Aires] [google_callback] Usuario NO encontrado con google_id: 113490845105077541254 email: ale.centeno06@gmail.com - Redirigiendo a selección de rol
+[06-Nov-2025 18:35:11 America/Argentina/Buenos_Aires] [google_finalize_signup] Vinculando Google a usuario existente: user_id=652687 google_id=113490845105077541254
+[06-Nov-2025 18:35:11 America/Argentina/Buenos_Aires] [asociarEspSiNoExiste] Usuario 652687 NO tiene ESP vinculado - needs_esp32=true
+[06-Nov-2025 18:35:11 America/Argentina/Buenos_Aires] [google_finalize_signup][link-existing] Usuario 652687 sin ESP -> vincular_esp
+[06-Nov-2025 20:45:06 America/Argentina/Buenos_Aires] [google_callback] Buscando usuario existente con google_id: 108988141100201560971
+[06-Nov-2025 20:45:06 America/Argentina/Buenos_Aires] [google_callback] Usuario NO encontrado con google_id: 108988141100201560971 email: pastilleroautomatico7@gmail.com - Redirigiendo a selección de rol
+[06-Nov-2025 20:45:12 America/Argentina/Buenos_Aires] [google_finalize_signup] Mapeo Google creado: user_id=326042 google_id=108988141100201560971
+[06-Nov-2025 20:45:12 America/Argentina/Buenos_Aires] [asociarEspSiNoExiste] Usuario 326042 NO tiene ESP vinculado - needs_esp32=true
+[06-Nov-2025 20:45:12 America/Argentina/Buenos_Aires] [google_finalize_signup][new-user] Usuario 326042 sin ESP -> vincular_esp
+[06-Nov-2025 20:46:02 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 306: Módulo 3 a las 20:44:00 para módulo 3
+[06-Nov-2025 20:46:02 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[06-Nov-2025 20:46:38 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] 🚀 NOTIFICACIÓN INSTANTÁNEA - ESP ESP32_001 sobre alarma ID 304: Módulo 3 a las 00:59:00 para módulo 3
+[06-Nov-2025 20:46:38 America/Argentina/Buenos_Aires] [notificarEspNuevaAlarma] Módulo 3 ignorado por ESP configurado solo para módulo 1
+[2025-11-06 20:47:03] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-11-07 18:22:57] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-11-07 18:22:57] [ForgotPassword] Email enviado exitosamente {"user_id":"326042","email":"pastilleroautomatico7@gmail.com","token_expires":"2025-11-07 19:22:52"}
+[2025-11-07 18:23:01] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-11-07 18:23:01] [ForgotPassword] Email enviado exitosamente {"user_id":"326042","email":"pastilleroautomatico7@gmail.com","token_expires":"2025-11-07 19:23:00"}
+[2025-11-07 18:29:51] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-11-07 18:29:51] [ForgotPassword] Email enviado exitosamente {"user_id":"326042","email":"pastilleroautomatico7@gmail.com","token_expires":"2025-11-07 19:29:49"}
+[2025-11-07 18:31:45] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-11-07 18:31:45] [ForgotPassword] Email enviado exitosamente {"user_id":"326042","email":"pastilleroautomatico7@gmail.com","token_expires":"2025-11-07 19:31:44"}
+[2025-11-07 18:33:36] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-11-07 18:33:36] [ForgotPassword] Email enviado exitosamente {"user_id":"326042","email":"pastilleroautomatico7@gmail.com","token_expires":"2025-11-07 19:33:35"}
+[2025-11-07 18:38:09] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-11-07 18:38:09] [ForgotPassword] Email enviado exitosamente {"user_id":"326042","email":"pastilleroautomatico7@gmail.com","token_expires":"2025-11-07 19:38:07"}
+[2025-11-07 18:38:24] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-11-07 18:38:24] [ForgotPassword] Email enviado exitosamente {"user_id":"326042","email":"pastilleroautomatico7@gmail.com","token_expires":"2025-11-07 19:38:23"}
+[2025-11-07 18:39:34] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-11-07 18:39:34] [ForgotPassword] Email enviado exitosamente {"user_id":"326042","email":"pastilleroautomatico7@gmail.com","token_expires":"2025-11-07 19:39:33"}
+[2025-11-07 18:40:05] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-11-07 18:40:05] [ForgotPassword] Email enviado exitosamente {"user_id":"326042","email":"pastilleroautomatico7@gmail.com","token_expires":"2025-11-07 19:40:04"}
+[2025-11-07 18:41:45] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-11-07 18:41:45] [ForgotPassword] Email enviado exitosamente {"user_id":"326042","email":"pastilleroautomatico7@gmail.com","token_expires":"2025-11-07 19:41:44"}
+[2025-11-07 18:42:49] [Email] SendGrid OK {"status":202,"to":"pastilleroautomatico7@gmail.com"}
+[2025-11-07 18:42:49] [ForgotPassword] Email enviado exitosamente {"user_id":"326042","email":"pastilleroautomatico7@gmail.com","token_expires":"2025-11-07 19:42:47"}
