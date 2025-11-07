@@ -1,27 +1,34 @@
 # AutoPill
 
-Plataforma web para gestionar un pastillero inteligente basado en ESP32. Permite a pacientes y cuidadores crear y administrar alarmas de medicación, vincular módulos físicos, enviar notificaciones y registrar la ejecución de tomas. El firmware del ESP32 consulta periódicamente la API para obtener instrucciones y reporta eventos de dispensado.
+Esta es una plataforma web para gestionar el Pastillero Automatico Autopill, basado en ESP32. Permite a sus usuarios crear y administrar alarmas de medicación, registrar la ejecución de las alarmas, y recibir notificaciones de cuando tomar las pastillas. El firmware del ESP32 consulta periódicamente la API para obtener instrucciones y reporta eventos de dispensado.
 
 ## ¿Qué hace el proyecto?
 
-- Gestión de usuarios con roles de paciente y cuidador (registro, login tradicional y Google OAuth).
+- Gestión de usuarios con roles de usuario "común" y cuidador (registro, login tradicional y Google OAuth).
 - Recuperación de contraseña por email con enlaces seguros y expiración.
 - Creación, edición, eliminación y listado de alarmas por usuario y módulo.
 - Notificaciones en tiempo real en la web y envío hacia dispositivos vinculados.
 - Vinculación y administración de módulos ESP32 por usuario.
-- Paneles de control para pacientes y cuidadores.
-- API HTTP consumida por ESP32 para obtener próximas alarmas y reportar eventos.
+- Paneles de control para usuario "comúnes" y cuidadores.
+- API HTTP utilizada por ESP32 para obtener próximas alarmas y reportar eventos.
 - Servicios de monitoreo/cron para tareas de mantenimiento y seguimiento.
 
 Tecnologías principales:
 - PHP 8, MySQL/MariaDB
 - Web server (Apache/IIS)
 - SendGrid para email transaccional
+  
+## Rol de usuario común
+El usuario común es el usuario dueño del Pastillero Autopill, quien toma las pastillas.
+
+##Rol de cuidador
+Un usuario no dueño del pastillero, quien esta vinculado con un usuario común, y administra las pastillas de este de manera remota, con previa autorización del mismo. 
 
 ## ¿Por qué es útil?
 
-- Centraliza el manejo de tratamientos: el usuario ve y recibe recordatorios; el cuidador puede supervisar estados y alarmas activas.
-- Permite la configuración del pastillero Autopill con una interfaz web y hardware simple.
+- Es el software principal para manejar un hardware pensado para ayudar al usuario a adherirse a su tratamiento farmacológico.
+- Centraliza el manejo de tratamientos: el usuario ve y recibe recordatorios; el cuidador puede supervisar estados y alarmas activas, además de modificarlas.
+- Permite la configuración del Pastillero Autopill con una interfaz web y hardware simple.
 - Incluye un flujo de recuperación de contraseña robusto y prácticas de seguridad básicas.
 
 ## Arquitectura y archivos clave
@@ -43,7 +50,8 @@ Base de datos de referencia: `bg03.sql` (y `bg03_duplicado.sql`).
 - PHP 8.0 o superior
 - MySQL/MariaDB 5.7+ / 10.4+
 - Web server (Apache con mod_php o IIS con FastCGI)
-- Clave API de correo (por ejemplo SendGrid) si deseas envío real de emails
+- Clave API de correo (por ejemplo SendGrid)
+- Clave API de Google OAuth
 
 ## Configuración
 
@@ -71,7 +79,7 @@ Si no configuras un proveedor, el sistema intentará `mail()` como fallback.
 
 1. Crea credenciales OAuth 2.0 en Google Cloud Console (tipo aplicación web).
 2. Configura URIs de redirección autorizadas apuntando a `google_callback.php`.
-3. Completa `google_oauth_config.php` y secretos en `google_oauth_secrets.php` (no publiques este archivo).
+3. Completa `google_oauth_config.php` y secretos en `google_oauth_secrets.php`.
 
 ### Variables adicionales
 
@@ -118,3 +126,4 @@ Revisa el código del endpoint principal `get_notifications_esp.php` para ver el
 ## Licencia
 
 Autopill 2025. Todos los derechos reservados.
+
